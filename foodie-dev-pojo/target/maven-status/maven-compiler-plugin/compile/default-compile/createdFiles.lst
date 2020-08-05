@@ -1,0 +1,13 @@
+com\jzh\pojo\Category.class
+com\jzh\pojo\ItemsComments.class
+com\jzh\pojo\OrderStatus.class
+com\jzh\pojo\OrderItems.class
+com\jzh\pojo\Carousel.class
+com\jzh\pojo\Users.class
+com\jzh\pojo\PdmanDbVersion.class
+com\jzh\pojo\ItemsSpec.class
+com\jzh\pojo\UserAddress.class
+com\jzh\pojo\Orders.class
+com\jzh\pojo\Items.class
+com\jzh\pojo\ItemsParam.class
+com\jzh\pojo\ItemsImg.class

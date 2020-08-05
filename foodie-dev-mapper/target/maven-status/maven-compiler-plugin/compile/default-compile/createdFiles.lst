@@ -1,0 +1,14 @@
+com\jzh\my\mapper\MyMapper.class
+com\jzh\mapper\CarouselDao.class
+com\jzh\mapper\ItemsSpecDao.class
+com\jzh\mapper\ItemsParamDao.class
+com\jzh\mapper\OrderStatusDao.class
+com\jzh\mapper\OrdersDao.class
+com\jzh\mapper\UsersDao.class
+com\jzh\mapper\CategoryDao.class
+com\jzh\mapper\ItemsImgDao.class
+com\jzh\mapper\PdmanDbVersionDao.class
+com\jzh\mapper\UserAddressDao.class
+com\jzh\mapper\OrderItemsDao.class
+com\jzh\mapper\ItemsCommentsDao.class
+com\jzh\mapper\ItemsDao.class
