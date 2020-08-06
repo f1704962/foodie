@@ -115,7 +115,7 @@ public class PassportController {
         }
 
         userResult = setNullProperty(userResult);
-
+        // true 加密
         CookieUtils.setCookie(request, response, "user",
                 JsonUtils.objectToJson(userResult), true);
 
