@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9260f39e-6c39-4021-9d05-ad2d619e7ab3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/Architect-Stage-3-Distributed.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/interceptor/UserTokenInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/interceptor/UserTokenInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/src/main/java/com/imooc/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/src/main/java/com/imooc/CorsConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/src/main/java/com/imooc/controller/SSOController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/src/main/resources/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/src/main/resources/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/classes/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/classes/com/imooc/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/classes/com/imooc/CorsConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/classes/com/imooc/controller/SSOController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/classes/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/foodie-sso-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-sso/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-    </list>
+    <list default="true" id="9260f39e-6c39-4021-9d05-ad2d619e7ab3" name="Default Changelist" comment="Default Changelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,20 +56,20 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "f1704962"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;f1704962&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/f1704962/foodie.git",
-    "accountId": "dbe3070c-c442-4137-8fab-8c0c86dd87a6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/f1704962/foodie.git&quot;,
+    &quot;accountId&quot;: &quot;dbe3070c-c442-4137-8fab-8c0c86dd87a6&quot;
   }
-}]]></component>
+}</component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -192,6 +163,7 @@
     <option name="height" value="1057" />
   </component>
   <component name="ProjectId" id="2wzl0Cn2haH707AX6zdEJeOakWs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="true" />
@@ -223,11 +195,11 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code/Architect-Stage-5-RabbitMQ/rabbit-producer",
+    "last_opened_file_path": "D:/code/foodie-dev",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -418,6 +390,15 @@
       <workItem from="1574565220290" duration="12228000" />
       <workItem from="1574650774944" duration="60000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <option name="closed" value="true" />
+      <created>1747472469066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747472469066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -541,6 +522,13 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///maven/repository/org/springframework/data/spring-data-redis/2.1.8.RELEASE/spring-data-redis-2.1.8.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisClusterConnection.java">
